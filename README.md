@@ -1,1 +1,2 @@
 # Predictive-Modeling-hotel
+The **Exceptional Dining Experience** presentation analyzes hotel performance across cities, focusing on room bookings, occupancy rates, and property types. It identifies key trends, such as city-wise occupancy variations and successful room categories, using data analysis and predictive modeling. Developed by **Akul Garg, Nikita Tripathi, Bhavyanshu Jain, and Ayush Goyal**, the study provides insights to optimize hotel management and enhance guest experiences.
